@@ -1,0 +1,86 @@
+.first{
+    width: 100%;
+    height: 250px;
+}
+
+.menu-head{
+    text-align: center;
+    margin-top: 70px;
+    color: black;
+}
+.menu-content{
+    text-align: center;
+}
+
+
+.text-banner-layout1 {
+    padding-top: 400px;
+    padding-bottom: 60px;
+}
+.bg-parallax {
+    background-attachment: fixed;
+}
+.bg-img {
+    position: relative;
+    z-index: 1;
+}
+.text-center {
+    text-align: center!important;
+}
+
+
+
+
+
+
+
+
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.banner__title {
+    color: rgb(65, 40, 40);
+    font-size: 55px;
+}
+
+.menu-layout1 .menu-item, .menu-layout5 .menu-item {
+    padding-bottom: 11px;
+    border-bottom: 1px dashed #dbdbdb;
+    margin-bottom: 20px;
+}
+.menu-item {
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.menu-layout1 .menu-item .menu__item-title, .menu-layout5 .menu-item .menu__item-title {
+    display: inline-block;
+    margin-right: 10px;
+}
+.menu-item .menu__item-title {
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 7px;
+}
+.menu-layout1 .menu-item .menu__item-price, .menu-layout5 .menu-item .menu__item-price {
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: block;
+    min-width: 50px;
+    text-align: right;
+}
+.menu-item .menu__item-price {
+    color: #c7a254;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.pri{
+    display: block;
+    text-align: right;
+}

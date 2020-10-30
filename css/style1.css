@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Merriweather:ital,wght@1,700&family=Sansita+Swashed:wght@700&display=swap');
+.font1{
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 40px;
+    color: #e9decf;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@1,600&family=Piazzolla:ital,wght@1,700&family=Sansita+Swashed:wght@400;600;900&display=swap');
+.about11{
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.logo{
+    width: 120px;
+    height: auto;
+    padding: 0 !important;
+    margin: 0;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital@1&display=swap');
+.about1{
+    font-family: 'Merriweather', serif;
+}
